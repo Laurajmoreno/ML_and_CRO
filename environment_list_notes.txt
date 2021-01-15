@@ -1,0 +1,20 @@
+
+PACKAGES INSTALLED PER DATE:
+
+15/01/2021:
+conda install jupyter
+conda install pandas
+conda install matplotlib
+conda install matplotlib
+conda install seaborn
+conda install altair vega_datasets
+conda install streamlit
+conda install scikit-learn
+conda install -c conda-forge google-api-python-client
+pip install --upgrade oauth2client
+
+-- ATTENTION -- 
+In order tu create environment.yml, I tried to use --from-history argument but an error ocurred: 'unrecognized arguments: --from-history'
+Thus, environment.yml file may include some Linux operating system low level packages that would give problems on other Operating Systems such as MacOS o Windows.  
+>> SOLVE THIS PROBLEM 
+
