@@ -26,6 +26,9 @@ quilt install ResidentMario/missingno_data
 24/03/2021
 pip install category_encoders
 
+03/04/2021
+pip install -U pandasql
+
 -- ATTENTION -- 
 In order tu create environment.yml, I tried to use --from-history argument but an error ocurred: 'unrecognized arguments: --from-history'
 Thus, environment.yml file may include some Linux operating system low level packages that would give problems on other Operating Systems such as MacOS o Windows.  
