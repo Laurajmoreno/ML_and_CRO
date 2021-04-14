@@ -32,6 +32,9 @@ pip install -U pandasql
 11/04/2021
 pip install eli5
 
+13/04/2021:
+pip install imbalanced-learn
+
 -- ATTENTION -- 
 In order tu create environment.yml, I tried to use --from-history argument but an error ocurred: 'unrecognized arguments: --from-history'
 Thus, environment.yml file may include some Linux operating system low level packages that would give problems on other Operating Systems such as MacOS o Windows.  
