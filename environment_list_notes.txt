@@ -35,6 +35,19 @@ pip install eli5
 13/04/2021:
 pip install imbalanced-learn
 
+21/04/2021
+conda install -c conda-forge shap
+conda install -c conda-forge category_encoders
+conda install -c conda-forge eli5
+conda install -c conda-forge imbalanced-learn
+(Al instalar shap, se desinstalaron los paquetes de category-encoders, eli5 e imbalance-learn. Por esta razón, los volví a instalar con Conda)
+
+25/04/2021
+conda install -c conda-forge oauth2client
+
+27/04/2021
+conda install -c brown-data-science treeinterpreter
+
 -- ATTENTION -- 
 In order tu create environment.yml, I tried to use --from-history argument but an error ocurred: 'unrecognized arguments: --from-history'
 Thus, environment.yml file may include some Linux operating system low level packages that would give problems on other Operating Systems such as MacOS o Windows.  
