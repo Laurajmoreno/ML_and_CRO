@@ -13,3 +13,8 @@ analyticsreporting.dat
 
 # Environment:
 env/
+
+# Delete files:
+Model_MVP.ipynb
+CATEGORICAL DATA - DATA EXPLORATION AND FEATURE ENGINEERING.ipynb
+
