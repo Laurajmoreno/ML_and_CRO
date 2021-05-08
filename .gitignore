@@ -10,3 +10,6 @@ analyticsreporting.dat
 
 # Models saved:
 *.pickle
+
+# Environment:
+env/
