@@ -1,0 +1,12 @@
+# ipynb checkpoints:
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# GA4 API files:
+HelloAnalytics.py
+client_secrets.json
+API_user.txt
+analyticsreporting.dat
+
+# Models saved:
+*.pickle
