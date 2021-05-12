@@ -48,6 +48,9 @@ conda install -c conda-forge oauth2client
 27/04/2021
 conda install -c brown-data-science treeinterpreter
 
+05/05/2021
+conda install -c conda-forge streamlit
+
 -- ATTENTION -- 
 In order tu create environment.yml, I tried to use --from-history argument but an error ocurred: 'unrecognized arguments: --from-history'
 Thus, environment.yml file may include some Linux operating system low level packages that would give problems on other Operating Systems such as MacOS o Windows.  
