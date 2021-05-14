@@ -14,6 +14,8 @@ En este repositorio, se encuentran tanto los **notebooks** (numerados en el orde
 
 Por otro lado, las **credenciales** de la cuenta de GMAIL necesaría para autenticarse en la API de *Google Analytics* y descargar los datos, han sido enviados a su correo electrónico. 
 
+Se recomienda seguir como guía la memoria y consultar el detalle en los notebooks. 
+
 ### Antes de empezar:
 
 1.	Clone en local el repositorio de GIT HUB: https://github.com/Laurajmoreno/kschool_masterDS_TFM
