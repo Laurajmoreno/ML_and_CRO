@@ -21,7 +21,7 @@ Por otro lado, las **credenciales** de la cuenta de GMAIL necesaría para autent
 2.	En el mismo directorio en el que haya creado el repositorio, cree una nueva carpeta llamada ***data***
 	- En el conjunto de los notebooks, **data root** ha sido definido como `../data/`
 
-3.	Conectese a la **cuenta de Gmail** que le ha sido facilitada por correo electrónico y abra la cuenta de **google drive** asociada.
+3.	Conectese a la **cuenta de Gmail** que le ha sido facilitada por correo electrónico y abra la cuenta de **Google Drive** asociada.
 	- Descargue y descomprima los ficheros de **‘data’** en el interior de la carpeta creada en el apartado anterior.
 	- Descargue y descomprima los ficheros de **‘ficheros a incluir en el interior del repositorio’** en el interior del repositorio
 
