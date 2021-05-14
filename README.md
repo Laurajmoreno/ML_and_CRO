@@ -10,9 +10,9 @@ Este proyecto busca establecer un **marco de trabajo inicial** para la implement
 
 ### Documentación:
 
-En este repositorio, se encuentran tanto los **notebooks** (numerados en el orden en el que deben ser explorados) como la **memoria** del proyecto (*PROJECT NARRATIVE*). Asimismo, se incluye el fichero correspondiente al código fuente del *frontend* interactivo, que también puede ser sobrescrito y ejecutado en el último de los notebooks. 
+En este repositorio, se encuentran tanto los **notebooks** (numerados en el orden en el que deben ser explorados) como la **memoria** del proyecto (PROJECT_NARRATIVE.pdf). Asimismo, se incluye el fichero correspondiente al código fuente del *frontend* interactivo, que también puede ser sobrescrito y ejecutado en el último de los notebooks. 
 
-Por otro lado, las **credenciales** de la cuenta de GMAIL necesaría para autenticarse en la API de Google Analytics y descargar los datos, han sido enviados a su correo electrónico. 
+Por otro lado, las **credenciales** de la cuenta de GMAIL necesaría para autenticarse en la API de *Google Analytics* y descargar los datos, han sido enviados a su correo electrónico. 
 
 ### Antes de empezar:
 
