@@ -26,10 +26,10 @@ Por otro lado, las credenciales de la cuenta de GMAIL necesaría para autenticar
 	- Descargue y descomprima los ficheros de **‘ficheros a incluir en el interior del repositorio’** en el interior del repositorio
 
 4.	Cree el entorno Conda a partir del fichero **environment.yml** del repositorio y actívelo (todos los paquetes fueron instalados con *conda* y *conda-forge*, es posible que tarden en instalarse)
-	'''
-	$conda env create --prefix ./env --file environment.yml
-	$conda activate ./env
-	'''
+```
+$conda env create --prefix ./env --file environment.yml
+$conda activate ./env
+```
 		
 
 5.	Ejecute **JUPYTER NOTEBOOK**
