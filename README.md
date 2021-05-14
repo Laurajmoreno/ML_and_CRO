@@ -34,6 +34,6 @@ $ conda activate ./env
 
 5.	Ejecute **JUPYTER NOTEBOOK**
 
-6.	Para facilitar la navegación en el interior de los notebooks, se recomienda activar **nbextensions** (ya instalada en el entorno) en la *Home* de *Jupyter Notebook*.
+6.	Para facilitar la navegación en el interior de los notebooks, se recomienda activar **nbextensions** (ya instalada en el entorno) en la *Home* de *Jupyter Notebook* (para más información, consulte el documento PROJECT_NARRATIVE.pdf)
 
 
