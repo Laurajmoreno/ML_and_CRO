@@ -12,7 +12,7 @@ Este proyecto busca establecer un **marco de trabajo inicial** para la implement
 
 En este repositorio, se encuentran tanto los notebooks (numerados en el orden en el que deben ser explorados) como la memoria del proyecto (*PROJECT NARRATIVE*). Asimismo, se incluye el fichero correspondiente al código fuente del frontend interactivo. 
 
-Por otro lado, las credenciales de la cuenta de GMAIL necesaría para autenticarse en la API de Google Analytics y descargar los datos, le han sido enviados por correo. 
+Por otro lado, las credenciales de la cuenta de GMAIL necesaría para autenticarse en la API de Google Analytics y descargar los datos, han sido enviados a su correo electrónico. 
 
 ### Antes de empezar:
 
